@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: (pink,lavender,skyblue);
+}
+#welcome{
+    color: #FFFFFF;
+    bottom: 0;
+    background-color: (pink,lavender,skyblue);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
